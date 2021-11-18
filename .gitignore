@@ -4,6 +4,7 @@ Thumbs.db
 build/
 target/
 out/
+bin/
 .idea
 *.iml
 *.ipr
@@ -12,3 +13,5 @@ out/
 .settings
 .classpath
 .factorypath
+/.apt_generated/
+/.apt_generated_tests/
